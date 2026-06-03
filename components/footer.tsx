@@ -54,7 +54,7 @@ export function Footer() {
             </Link>
             <p className="text-card/70 mb-6 max-w-sm leading-relaxed">
               Your pathway to global education. We&apos;ve helped over
-              2,500 students achieve their dream of world-class German education.
+              100 students achieve their dream of world-class German education.
             </p>
             <div className="flex items-center gap-4">
               {socialLinks.map((social) => (
